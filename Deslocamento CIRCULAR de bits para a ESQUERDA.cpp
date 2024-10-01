@@ -1,4 +1,10 @@
-//Fazer um programa no TinkerCad que leia via SERIAL um valor inteiro de 16 bits (unsigned int) e imprima esse inteiro após ter feito o deslocamento de 4 bits para a ESQUERDA. Entretanto, o deslocamento dever ser circular, ou seja, o deslocamento é feito mas o bit mais  significativo não é perdido, mas esse mesmo bit mais significativo deve ser o novo bit menos significativo.
+//https://www.tinkercad.com/things/aifptv9tLDP
+
+//Fazer um programa no TinkerCad que leia via SERIAL um 
+//valor inteiro de 16 bits (unsigned int) e imprima esse inteiro após ter feito o 
+//deslocamento de 4 bits para a ESQUERDA. Entretanto, o deslocamento dever ser circular, 
+//ou seja, o deslocamento é feito mas o bit mais  significativo não é perdido, 
+//mas esse mesmo bit mais significativo deve ser o novo bit menos significativo.
 
 //Por exemplo, se o valor inteiro de 16 bits for "33344" o resultado deve ser "9224".
 
